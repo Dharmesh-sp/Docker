@@ -6,7 +6,7 @@
 
 ## **🔰 MODULE 1: Introduction to Docker (Basics)** 17-11-2025
 
-### **1.1 What is Docker?**
+### **1.1.0 What is Docker?**
 
 * Why containerization?
 * VM vs Containers
